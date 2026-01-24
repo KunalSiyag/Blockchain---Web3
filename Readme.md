@@ -180,14 +180,6 @@ This project follows core Web3 principles:
 “Where decentralization begins, innovation follows.”
 
 ⸻
-
-👤 Leadership
-
-Topic Lead:
-“Web3 leadership means designing systems where users are in control.”
-
-⸻
-
 🙏 Special Thanks
 
 Special thanks to the Smartly Creators Program for promoting decentralized thinking, blockchain innovation, and open-source collaboration.
